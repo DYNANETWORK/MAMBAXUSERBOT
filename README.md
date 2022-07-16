@@ -1,26 +1,26 @@
-<p align="center"><a href="https://t.me/TheAltron"><img src="https://te.legra.ph/file/7abe179ff252aaabbf2a5.jpg"></a></p>
+<p align="center"><a href="https://t.me/MAMBA_X_SUPPORT"><img src="https://telegra.ph/file/1bb20c5dddcc3bb39ebbf.jpg"></a></p>
 
 ━━━━━━━━━━━━━━━━━━━━━━
 
-## ㅤㅤㅤ 🖤ᴀʟᴛʀᴏɴ🖤
-ᴛʜɪs ɪs ᴀɴ ᴀᴅᴠᴀɴᴄᴇ ᴍᴜsɪᴄ+ᴠɪᴅᴇᴏ ᴀɴᴅ sᴘᴀᴍ ᴜsᴇʀʙᴏᴛ's ʀᴇᴘᴏ, ʏᴏᴜ ᴄᴀɴ ғɪɴᴅ ᴜs ᴏɴ ᴛᴇʟᴇɢʀᴀᴍ ᴀs  [🖤 𝐀𝐋𝐓𝐑𝐎𝐍 🖤](https://t.me/Altron_X)
+## ㅤㅤㅤ 🖤ᴍᴀᴍʙᴀ🖤
+ᴛʜɪs ɪs ᴀɴ ᴀᴅᴠᴀɴᴄᴇ ᴍᴜsɪᴄ+ᴠɪᴅᴇᴏ ᴀɴᴅ sᴘᴀᴍ ᴜsᴇʀʙᴏᴛ's ʀᴇᴘᴏ, ʏᴏᴜ ᴄᴀɴ ғɪɴᴅ ᴜs ᴏɴ ᴛᴇʟᴇɢʀᴀᴍ ᴀs  [🖤𝐌𝐀𝐌𝐁𝐀🖤](https://t.me/MAMBA_X_SUPPORT)
 
 ━━━━━━━━━━━━━━━━━━━━━━
 ## ㅤㅤㅤᴅᴇᴘʟᴏʏ ᴏɴ ʜᴇʀᴏᴋᴜ​ 🚀
-ㅤㅤㅤᴛʜᴇ ᴇᴀsɪᴇsᴛ ᴡᴀʏ ᴛᴏ ᴅᴇᴘʟᴏʏ ᴀʟᴛʀᴏɴ​
+ㅤㅤㅤᴛʜᴇ ᴇᴀsɪᴇsᴛ ᴡᴀʏ ᴛᴏ ᴅᴇᴘʟᴏʏ ᴍᴀᴍʙᴀ
 <p align="center"><a href="https://heroku.com/deploy"> <img src="https://img.shields.io/badge/Deploy%20To%20Heroku-pink?style=for-the-badge&logo=heroku" width="220" height="38.45"/></a></p>
  ━━━━━━━━━━━━━━━━━━━━━━
 
 ### ㅤㅤㅤ❤ CREDITS ❤
 
 
-- ᴍᴇ ᴏɴ [ɢɪᴛʜᴜʙ💞](https://github.com/Shailendra34)ㅤㅤㅤㅤㅤㅤㅤㅤ
+- ᴍᴇ ᴏɴ [ɢɪᴛʜᴜʙ💞](https://github.com/DYNANETWORK)ㅤㅤㅤㅤㅤㅤㅤㅤ
 ㅤㅤㅤㅤㅤㅤㅤㅤ
-- ᴍᴇ ᴏɴ [ᴛᴇʟᴇɢʀᴀᴍ🌷](https://t.me/Shailendra34)
+- ᴍᴇ ᴏɴ [ᴛᴇʟᴇɢʀᴀᴍ🌷](https://t.me/ITS_BLACKMAMBA)
 
-- [PʏᴛʜᴏɴX](https://t.me/Dark_X_Python) ᴏɴ ᴛᴇʟᴇɢʀᴀᴍ 💫
+- [MANJEET](https://github.com/KAAL0408) ᴏɴ ɢɪᴛʜᴜʙ 💫
 
-- [PʏᴛʜᴏɴX](https://github.com/Err0rMK) ᴏɴ ɢɪᴛʜᴜʙ 💖
+- [🖤ᴍᴀᴍʙᴀ🖤](https://t.me/MAMBA_X_NETWORK) ᴏɴ ᴛᴇʟᴇɢʀᴀᴍ 💖
 
 - [PʏTɢCᴀʟʟs](https://github.com/pytgcalls/pytgcalls)
 
