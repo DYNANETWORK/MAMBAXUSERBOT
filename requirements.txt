@@ -1,0 +1,13 @@
+aiofiles
+aiohttp
+asyncio
+pyrogram==1.4.16
+git+https://github.com/MrAdityaXD/yt-dl@master
+python-arq
+python-dotenv
+py-tgcalls
+gitpython
+requests
+TgCrypto
+wget
+youtube-search-python==1.4.6
