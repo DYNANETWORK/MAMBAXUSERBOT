@@ -23,7 +23,7 @@ API_HASH = getenv("API_HASH")
 BOT_TOKEN = getenv("BOT_TOKEN")
 BOT_USERNAME = getenv("BOT_USERNAME", "")
 SESSION = getenv("SESSION")
-UPSTREAM_REPO = getenv("UPSTREAM_REPO", "https://github.com/DYNANETWORK/MAMBAXUB")
+UPSTREAM_REPO = getenv("UPSTREAM_REPO", "https://github.com/DYNANETWORK/MAMBAXUSERBOT")
 
 def make_int(str_input):
     str_list = str_input.split(" ")
@@ -54,7 +54,7 @@ SESSION10 = getenv("SESSION10")
 #-------------------------BOT-----------------------------
 
 bot = Client(
-    'MambaUserbot',
+    'MambaXUserbot',
     api_id=API_ID,
     api_hash=API_HASH,
     bot_token=BOT_TOKEN,
